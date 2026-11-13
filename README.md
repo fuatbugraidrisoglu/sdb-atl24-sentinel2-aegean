@@ -6,7 +6,7 @@ Reproducible code and data for the manuscript:
 Turkish Aegean coast, with independent reference-grade validation."**
 Fuat Buğra İdrisoğlu, Balıkesir University. ORCID 0009-0000-9235-9341.
 
-## What this capsule does
+## What this repository does
 
 Running it reproduces the quantitative results of the paper from the bundled
 training tables and the Florida reference-lidar table:
